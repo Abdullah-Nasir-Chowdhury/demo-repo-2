@@ -22,3 +22,7 @@ You can do it by the following steps:
 8. Use `git commit -m ["message"]` to commit to push
 9. Use `git push origin master` to push to master branch
 10. to not use the long `git push origin master` you can create an upstream `git push -u origin master` meaning this is where I want to push by default. Now I can use `git push` only without typing in origin master in the future
+
+</br>
+
+that's how you initialize a remote repository and push it to github
