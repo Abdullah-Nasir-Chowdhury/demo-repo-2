@@ -26,3 +26,12 @@ You can do it by the following steps:
 </br>
 
 that's how you initialize a remote repository and push it to github
+
+# Git Branching
+
+You can have several branches.
+You will be working on feature branches when working with a public repo.
+To fix bugs you work with a Hot Fix Branch. 
+Once you are done with working with the feature branch or the Hot Fix branch you merge them back to the main branch. 
+</br> 
+Head over to the demo-repo.
